@@ -3,7 +3,7 @@
  *main - the main function
  *
  *puts - prints onto the screen
- *return - returns 0
+ *Return: zero
 **/
 int main(void)
 {char Mystr[] = "\"Programming is like building a multilingual puzzle";
