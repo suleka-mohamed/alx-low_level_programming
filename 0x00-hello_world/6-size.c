@@ -1,9 +1,9 @@
 #include <stdio.h>
 /** 
- *main - Entry
- *Return: zero
- *
- *
+*
+*main - Entry
+*Return: zero
+*
 **/
 int main(void)
 {char c;
