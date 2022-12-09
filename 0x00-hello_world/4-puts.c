@@ -1,10 +1,9 @@
 #include <stdio.h>
 /**
- *puts prints onto the screen
- *main-the main function
+ *main - the main function
  *
- *
- *return:function end
+ *puts - prints onto the screen
+ *return : function end
 **/
 int main(void)
 {char Mystr[] = "\"Programming is like building a multilingual puzzle";
