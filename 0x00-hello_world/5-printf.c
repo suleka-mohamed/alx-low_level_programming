@@ -1,9 +1,10 @@
 #include<stdio.h>
 /**
- * main-prints on the screen
- */
+ * main - main function
+ * printf - prints onto the screen
+ * Return: zero
+*/
 int main(void)
-  {
-    printf("with proper grammar, but the outcome is a piece of art",\n");
- return(o);
+{printf("with proper grammar, but the outcome is a piece of art",\n");
+return (o);
 }
