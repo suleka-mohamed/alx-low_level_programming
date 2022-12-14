@@ -5,6 +5,6 @@
  * Return: zero
  */
 int main(void){
-char *putchar = "_putchar";									while(*putchar){				_putchar(*putchar);				holberton++;
+char *putchar = "_putchar";									while(*putchar){				_putchar(*_putchar);				putchar++;
 }						_putchar('\n');					return(0);	
 };
